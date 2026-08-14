@@ -81,6 +81,9 @@ The application can be deployed using Streamlit Community Cloud by connecting th
 Main application file:
 
     app.py
+## 🌐 Live Demo
+
+🚀 **Streamlit App:** [Click here to try the Movie Recommender System](https://movierecommendersystem1-rcrpduvvkkqxdccn2uzbzk.streamlit.app/)
 
 ## 🔮 Future Improvements
 
